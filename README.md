@@ -1,1 +1,1 @@
-# number-of-good-pairs
+# number-of-good-pair
